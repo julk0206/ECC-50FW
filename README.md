@@ -67,3 +67,8 @@ README 파일이란?
 [julk0206 velog](https://velog.io/@julk0206/posts)
 
 [julk0206 velog](https://velog.io/@julk0206/posts, "개발 스터디 기록")
+
+
+### 이미지 삽입
+
+![프로필 이미지](./포챠코폼폼푸린.jpg)
